@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+there!;Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=03F7BB&center=true&width=540&height=60&lines=Hello+there!;Welcome+to+my+GitHub+page.;I+just+lost+my+old+account)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @TunxxVN
 - 😎 I'm 16 and live-learn-work following Ho Chi Minh's ideology
