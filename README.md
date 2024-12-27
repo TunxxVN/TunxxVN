@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **BreadSMP (a minecraft server)**
 
+- 🎓 Honored to stand as an NHH-er, class of 24-27
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/tunx0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tunx0707" height="30" width="40" /></a>
