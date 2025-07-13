@@ -26,7 +26,8 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 <div align="center">
-    <a align="center" href="https://discord.com/users/677792501410693120">
-        <img align="center" src="https://discord-readme-badge.vercel.app/api?id=677792501410693120" alt="Discord Profile"></img>
-    </a>
+  <a href="https://discord.com/users/677792501410693120">
+    <img src="https://lanyard.cnrad.dev/api/677792501410693120?idleMessage=Vibin'%20in%20idle%20mode" alt="Discord Presence"/>
+  </a>
 </div>
+
