@@ -5,7 +5,7 @@
 </div>
 
 ## About Me
-🎓 High school student at Nguyen Huu Huan • Passionate junior developer<br>✨ Currently developing [**Atsuko**](https://discord.com/oauth2/authorize?client_id=1130772002580475954&permissions=8&integration_type=0&scope=bot+applications.commands) - a versatile multi-functional Discord bot.
+🎓 High school student at Nguyen Huu Huan • Passionate junior developer<br>✨ Currently developing [**Atsuko**](https://tunx.vercel.app/) - a versatile multi-functional Discord bot.
 
 **Interests:** ⚽ Football enthusiast • 💻 Tech aficionado
 
@@ -39,12 +39,6 @@
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TunxxVN&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 </div>
 
